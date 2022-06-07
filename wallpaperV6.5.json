@@ -9,7 +9,7 @@
       "backup_native_ads_Admob_or_applovin":"xca-app-pub-3940256099942544/2247696110xx",
       "backup_ads_banner":"xca-app-pub-3940256099942544/6300978111xx",
       "backup_ads_intertitial":"ca-app-pub-9200602507152446/2781301692",
-      "interval_intertitial": 2,
+      "interval_intertitial": 7,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
